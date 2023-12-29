@@ -28,3 +28,4 @@ dist-ssr
 *.prover
 *.verifier
 /program/outputs/
+program/test.sh
