@@ -29,3 +29,5 @@ dist-ssr
 *.verifier
 /program/outputs/
 /program/test.sh
+program/test.sh
+test.sh
